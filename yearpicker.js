@@ -11,7 +11,7 @@ var defaults = {
     startYear: null,
     // End Date
     endYear: null,
-    // A element tag items
+    // An element tag items
     itemTag: 'li',
     //css class selected date item 
     selectedClass: 'selected',

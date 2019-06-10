@@ -15,7 +15,7 @@ body {
 }
 
 body {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: Arial;
     font-weight: 350;
     color: #8a8a88;
     background: #fafafa;
@@ -48,7 +48,7 @@ font-size: 1.7rem;
 .form-control{
     padding: 0.5rem;
     width: 250px;
-margin: 1rem 0rem;
+    margin: 1rem 0rem;
 }
 
 
